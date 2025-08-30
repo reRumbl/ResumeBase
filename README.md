@@ -38,7 +38,7 @@ ResumeBase — это веб-приложение с открытым исход
 
 1.  **Клонируйте репозиторий**:
     ```bash
-    git clone <URL-вашего-репозитория>
+    git clone https://github.com/reRumbl/ResumeBase
     cd ResumeBase
     ```
 
